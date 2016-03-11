@@ -1,0 +1,28 @@
+name: Physical Internet Lab
+favicon: null
+layout_spectrum: 0.28514928952790797
+typography_spectrum: 0.16385313775390387
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.27370264497585595
+  lightness: 0.8001786321401596
+  saturation: 0.1565922573208809
+  rhythmicContrast: 0.4601967523340136
+purpose: []
